@@ -1,0 +1,13 @@
+Hi Every one.
+	Let's Start Codeing ...
+
+	"Solar System Project"
+	
+	"Arshiya Razavi"
+	"Erfan Abbasgholi Nejad"
+	"Mohammad Hossein Amiri"
+	"Hossein Mohammadi"
+
+For seeing the 'SoSy' (Solar System) Facts, Refer to SolarSysData pdf or the link below:
+	https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+	https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size
