@@ -19,10 +19,11 @@ plb.rcParams['figure.figsize'] = 8,6
 
 
 """Constants"""
-____MASS____ = 5.974e24   #Earth mass
-____TIME____ = 86400      # 1 Day
-____DIST____ = 149.60e9   # 1 AU
-____G____ = 8.884e-10     # in reduced units
+____MASS____ = 5.974e24        #Earth mass
+____TIME____ = 2897756704      # 91.887262 Year
+____DIST____ = 149.60e9        # 1 AU
+____G____ = 1.     # in reduced units
+#with this choose the appropriate h or step is 0.0003 which is about 10 days.
 
 
 # In[3]:
